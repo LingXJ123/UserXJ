@@ -1,0 +1,84 @@
+{
+    "user": [
+        {
+            "avatar": "assets/1Male.png",
+            "name": "John",
+            "phone": "0121234513",
+            "isActive": true,
+            "index": 1
+        },
+
+        {
+            "avatar": "assets/1Female.png",
+            "name": "christine",
+            "phone": "0121234514",
+            "isActive": true,
+            "index": 2
+        },
+        
+        {
+            "avatar": "assets/2Male.png",
+            "name": "Johnny",
+            "phone": "0121234515",
+            "isActive": true,
+            "index": 3
+        },
+
+        {
+            "avatar": "assets/2Female.png",
+            "name": "Amber",
+            "phone": "0121234516",
+            "isActive": true,
+            "index": 4
+        },
+        
+        {
+            "avatar": "assets/3Male.png",
+            "name": "Jack",
+            "phone": "0121234517",
+            "isActive": true,
+            "index": 5
+        },
+
+        {
+            "avatar": "assets/3Female.png",
+            "name": "Anny",
+            "phone": "0121234518",
+            "isActive": true,
+            "index": 6
+        },
+        
+        {
+            "avatar": "assets/4Male.png",
+            "name": "christopher",
+            "phone": "0121234519",
+            "isActive": true,
+            "index": 7
+        },
+
+        {
+            "avatar": "assets/4Female.png",
+            "name": "Emilia",
+            "phone": "0121234510",
+            "isActive": true,
+            "index": 8
+        },
+        
+        {
+            "avatar": "assets/DefaultMale.png",
+            "name": "Tom",
+            "phone": "0121234511",
+            "isActive": true,
+            "index": 9
+        },
+
+        {
+            "avatar": "assets/DefaultFemale.png",
+            "name": "Jane",
+            "phone": "0121234512",
+            "isActive": true,
+            "index": 10
+        }
+        
+    ]
+}
